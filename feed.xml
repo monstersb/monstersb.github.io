@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>扒个裤</title>
+    <description>争取做最会写代码的魔术师和最会日站的吉他手。</description>
+    <link>http://bug.cool/</link>
+    <atom:link href="http://bug.cool/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 26 Oct 2016 00:44:59 +0800</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2016 00:44:59 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>
